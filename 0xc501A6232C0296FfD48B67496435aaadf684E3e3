@@ -1,0 +1,11 @@
+{
+ "name": "Fst King",
+ "website": "https://FstKing.vip",
+ "description": "Tether",
+ "explorer": "https://bscscan.com/address/0xc501A6232C0296FfD48B67496435aaadf684E3e3",
+ "type": "BEP20",
+ "symbol": "USDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc501A6232C0296FfD48B67496435aaadf684E3e3"
+}
